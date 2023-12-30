@@ -1,0 +1,1 @@
+# 1. Dacă un număr natural n este de forma 2 k să se afișeze puterea k.
